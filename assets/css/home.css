@@ -1,0 +1,30 @@
+
+.home-container{
+    background-color: #fbfbfd;
+    color: #0a0a0a;
+}
+.btn-danger {
+    color: #fff;
+    background-color: #b91409;
+    border-color:#b91409;
+}
+.home-container:hover{
+    background-color: #f0f0f3;
+}
+.project-name{
+    margin: auto;
+    margin-left: 1%;
+}
+.front{
+    will-change: transform;
+    transition: transform 250ms;
+}
+.open-project-btn:hover .front{
+    transform: translateY(-6px);
+}
+.open-project-btn:active .front{
+    transform: translateY(-2px);
+}
+.text-light {
+    color: #212529!important;
+}

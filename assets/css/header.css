@@ -1,0 +1,9 @@
+.header-container{
+    background-color: #f5f0f0;
+    width: 100%;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #b91409;
+    border-color:#b91409;
+}

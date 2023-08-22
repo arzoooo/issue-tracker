@@ -1,0 +1,13 @@
+.project-container{
+    background-color: #fffafa;
+    color: #080808;
+}
+.text-light {
+    color: #212529!important;
+}
+.bg-danger {
+    background-color: #faf6f7!important;
+}
+.project-container:hover{
+    background-color: #fffafa;
+}
